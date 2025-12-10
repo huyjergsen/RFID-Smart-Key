@@ -1,0 +1,10 @@
+11:32:07 **** Incremental Build of configuration Debug for project DoAnNe ****
+make -j12 all 
+arm-none-eabi-size  DoAnNe.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17664	     60	   1844	  19568	   4c70	DoAnNe.elf
+Finished building: default.size.stdout
+ 
+
+11:32:08 Build Finished. 0 errors, 0 warnings. (took 504ms)
+
