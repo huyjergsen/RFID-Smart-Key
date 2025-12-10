@@ -1,2 +1,0 @@
-../Core/Src/keypad.c:25:6:Keypad_Init	16	static
-../Core/Src/keypad.c:33:6:Keypad_GetKey	16	static
